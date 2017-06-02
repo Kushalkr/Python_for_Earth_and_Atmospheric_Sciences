@@ -1,4 +1,5 @@
 # Python for Earth and Atmospheric Sciences
+<<<<<<< HEAD
 -------------------------------------------
 
 The material here provides a brief overview of the applications of python in the field of Earth and Atmospheric
@@ -29,3 +30,5 @@ Python for Geosciences - Nikolay Koldunov
 # Author
 ------------------------------
 Kushal Keshavamurthy Raviprakash
+=======
+>>>>>>> origin/master
