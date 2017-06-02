@@ -8,6 +8,16 @@ generalized. The basics can be a great resource for beginners to programming and
 
 This material is aimed towards beginning programmers and can serve as a very good resource for intermediate or advanced programmers as well.
 
+## Getting the notebooks and running them locally
+```bash
+git clone https://github.com/Kushalkr/Python_for_Earth_and_Atmospheric_Sciences.git
+```
+Running the Notebooks:
+```bash
+jupyter notebook
+```
+A browser window opens and you can navigate to the required folder and run the notebook of your choice.
+
 The list of topics I will be touching up on are as follows:
 
 * Introduction to Python
