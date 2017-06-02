@@ -29,4 +29,3 @@ Python for Geosciences - Nikolay Koldunov
 # Author
 ------------------------------
 Kushal Keshavamurthy Raviprakash
-=======
