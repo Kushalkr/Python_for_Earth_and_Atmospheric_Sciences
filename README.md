@@ -1,5 +1,4 @@
 # Python for Earth and Atmospheric Sciences
--------------------------------------------
 
 The material here provides a brief overview of the applications of python in the field of Earth and Atmospheric
 Sciences. The objective is to introduce the basics of python to beginners in
