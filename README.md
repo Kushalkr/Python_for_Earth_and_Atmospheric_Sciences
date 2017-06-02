@@ -5,6 +5,9 @@ Sciences. The objective is to introduce the basics of python to beginners in
 the fields of Earth and Atmospheric sciences. The overview is mainly aimed at
 people in the Earth and Atmospheric Sciences community but it is fairly
 generalized. The basics can be a great resource for beginners to programming and members of other communities as well.
+
+This material is aimed towards beginning programmers and can serve as a very good resource for intermediate or advanced programmers as well.
+
 The list of topics I will be touching up on are as follows:
 
 * Introduction to Python
