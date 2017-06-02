@@ -16,15 +16,14 @@ The list of topics I will be touching up on are as follows:
 * Parallel Programming in Python
 
 # Links to nbviewer versions
-------------------------------
 
 
 # References
-------------------------------
+
 Scientific-Computing with Python - Johannsson
 Python for Geosciences - Nikolay Koldunov
 
 
 # Author
-------------------------------
+
 Kushal Keshavamurthy Raviprakash
