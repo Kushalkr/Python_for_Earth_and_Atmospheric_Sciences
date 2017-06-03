@@ -34,6 +34,7 @@ The list of topics I will be touching up on are as follows:
 # References
 
 [Lectures on scientific computing with Python - J Robert Johansson](http://jrjohansson.github.io/computing.html)
+
 [Python for Geosciences - Nikolay Koldunov](https://github.com/koldunovn/python_for_geosciences)
 
 
