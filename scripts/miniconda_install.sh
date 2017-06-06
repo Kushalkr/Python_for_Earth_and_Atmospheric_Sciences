@@ -62,7 +62,7 @@ fi
 
 conda update -c conda-forge conda
 conda install -c conda-forge numpy scipy numexpr scikit-learn sympy \
-pandas matplotlib basemap netcdf4 hdf5 cython ipython notebook nomkl mpi4py
+pandas matplotlib basemap netcdf4 hdf5 cython ipython notebook nomkl mpi4py spyder
 
 # Remove the unwanted file
 printf 'do you want to keep the downloaded miniconda installation file? [y/n] '
