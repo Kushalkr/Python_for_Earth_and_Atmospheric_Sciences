@@ -39,3 +39,11 @@ d.pop(4)
 d.pop(4)
 d.pop(4)
 print("After: ",d,"\n")
+
+# Part two of the exercise
+
+address = [1001, "East", "10th", "street", "GY428", "Bloomington", "IN", 47408]
+
+print(address[0] + address[-1])
+address[1] = "North"
+print(address)
