@@ -38,7 +38,7 @@ if [ $OS == 'MacOS' ]; then
 elif [ $OS == 'Linux' ]; then
 	ifile=Miniconda3-latest-Linux-x86_64.sh
 	if ! [ -f $ifile ]; then
-		curl -O https://repo.continuum.io/miniconda/$ifile
+		wget -c https://repo.continuum.io/miniconda/$ifile
 	else
 		check=$(md5 "$ifile" | cut -d' ' -f 4)
 		echo $check
@@ -62,7 +62,7 @@ fi
 
 conda update -c conda-forge conda
 conda install -c conda-forge numpy scipy numexpr scikit-learn sympy \
-pandas matplotlib basemap netcdf4 hdf5 cython ipython notebook nomkl mpi4py spyder
+pandas matplotlib basemap cartopy netcdf4 hdf5 cython ipython notebook nomkl mpi4py spyder
 
 # Remove the unwanted file
 printf 'do you want to keep the downloaded miniconda installation file? [y/n] '
