@@ -29,7 +29,19 @@ The list of topics I will be touching up on are as follows:
 * Parallel Programming in Python
 
 # Links to nbviewer versions
+[00-Introduction_to_Python.ipynb](http://nbviewer.jupyter.org/github/Kushalkr/Python_for_Earth_and_Atmospheric_Sciences/blob/master/00-Introduction_to_Python.ipynb)
 
+[01-Python_Installation_and_Tools.ipynb](http://nbviewer.jupyter.org/github/Kushalkr/Python_for_Earth_and_Atmospheric_Sciences/blob/master/01-Python_Installation_and_Tools.ipynb)
+
+[02-Basics_of_Python_Programming.ipynb](http://nbviewer.jupyter.org/github/Kushalkr/Python_for_Earth_and_Atmospheric_Sciences/blob/master/02-Basics_of_Python_Programming.ipynb)
+
+[03-Numpy.ipynb](http://nbviewer.jupyter.org/github/Kushalkr/Python_for_Earth_and_Atmospheric_Sciences/blob/master/03-Numpy.ipynb)
+
+[04-Scipy.ipynb](http://nbviewer.jupyter.org/github/Kushalkr/Python_for_Earth_and_Atmospheric_Sciences/blob/master/04-Scipy.ipynb)
+
+[05-Plotting_using_Matplotlib,Basemap_and_Cartopy.ipynb](http://nbviewer.jupyter.org/github/Kushalkr/Python_for_Earth_and_Atmospheric_Sciences/blob/master/05-Plotting_using_Matplotlib%2CBasemap_and_Cartopy.ipynb)
+
+[06-Timeseries_Analysis_using_Pandas.ipynb](http://nbviewer.jupyter.org/github/Kushalkr/Python_for_Earth_and_Atmospheric_Sciences/blob/master/06-Timeseries_Analysis_using_Pandas.ipynb)
 
 # References
 
